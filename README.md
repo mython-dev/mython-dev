@@ -67,14 +67,7 @@
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
         </kbd>
       
-  <kbd>
-      
-   <kbd>Fw</kbd>
-          <br>
-          <br>
-          <img width="30px" src="https://www.liblogo.com/img-logo/max/dj3164dc9b-django-logo-django-community-logo-png-transparent-amp-svg-vector-freebie-supply.png" />
-    </p>
-  </kbd> 
+![Django](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 
  
  
