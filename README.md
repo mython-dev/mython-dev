@@ -5,10 +5,10 @@
 
 <p align='center'>
 <a href="https://mython.uz/" target="_blank">
-   <img align= 'center' src="https://img.shields.io/badge/-portfolio-black?logo=dialogflow&style=for-the-badge">
+   <img  src="https://img.shields.io/badge/-portfolio-black?logo=dialogflow&style=for-the-badge">
    
 <br>
-<center><img src="https://gpvc.arturio.dev/myth-dev-1337"></center>
+<img align= 'center' src="https://gpvc.arturio.dev/mythob-dev">
 </a>
 </p>
 
