@@ -66,9 +66,13 @@
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
         </kbd>
-      
-![Dj](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=#006400)
+<kbd> 
+ <br>
+   <br>
+   
+   ![Dj](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=#006400)
 
+  </kbd>
  
  
 <h2 align="center"><u>Мои лучшие работы</u></h2>
