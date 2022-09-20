@@ -78,6 +78,7 @@
           <br>
           <img width="30px" src="https://www.liblogo.com/img-logo/max/dj3164dc9b-django-logo-django-community-logo-png-transparent-amp-svg-vector-freebie-supply.png" />
         </kbd> 
+ </kbd> 
  
 <h2 align="center"><u>Мои лучшие работы</u></h2>
       
