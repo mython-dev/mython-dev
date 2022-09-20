@@ -25,8 +25,11 @@
 Где учился: 
 ***
 - [Skillbox](https://skillbox.uz/course/profession-cybersecurity/)
+   - Профессия Специалист по кибербезопасности
 - [Netology](https://netology.ru/programs/python)
+   - Python-разработчик с нуля 
 - [Udemy](https://www.udemy.com/course/site-on-django-3/)
+   - Сайт на Django 3. Сервис по сбору данных.
 - [Youtube](https://youtube.com/)  
 ***
 ### 🔧 Навыки:
