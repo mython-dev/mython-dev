@@ -6,12 +6,12 @@
 <p>
 <a href="https://mython.uz/" target="_blank">
    <img src="https://img.shields.io/badge/-mython.uz-black?logo=dialogflow&style=for-the-badge">
+   
+<br>
+<center><img src="https://gpvc.arturio.dev/myth-dev-1337"></center>
 </a>
 </p>
 
- 
-<br>
-<center><img src="https://gpvc.arturio.dev/myth-dev-1337"></center>
 
 #### Я junior backend Разработчик ⚙️ и Кибербезопасник 🔒.
 
