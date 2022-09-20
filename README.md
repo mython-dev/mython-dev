@@ -13,7 +13,7 @@
 
 
 
-- Я изучаю Python, Bash, Django, Linux, Pentesting, Cyber Security.
+- Я изучаю Python, Bash, Django, Flask, Linux, Pentesting, Cyber Security.
 
 - Что планироваю в дальнейшем изучать С#, SWIFT, KOTLIN, JS(базовый) и можеть быть GO.
 
