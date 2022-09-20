@@ -5,7 +5,7 @@
 
 <p>
 <a href="https://mython.uz/" target="_blank">
-   <img src="https://img.shields.io/badge/-mython.uz-black?logo=dialogflow&style=for-the-badge">
+   <img src="https://img.shields.io/badge/-portfolio-black?logo=dialogflow&style=for-the-badge">
    
 <br>
 <center><img src="https://gpvc.arturio.dev/myth-dev-1337"></center>
