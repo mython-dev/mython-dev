@@ -22,10 +22,10 @@
 
 Где учился: 
 
-- [Skillbox](https://skillbox.com/)
-- [Netology](https://netology.ru/)
-- Udemy
-- YouTube
+- [Skillbox](https://skillbox.uz/course/profession-cybersecurity/)
+- [Netology](https://netology.ru/programs/python)
+- [Udemy](https://www.udemy.com/course/site-on-django-3/learn/lecture/19678142#overview)
+- [YouTube](https://www.youtube.com/c/XCode_IT)
 
 ### 🔧 Навыки:
 
