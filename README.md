@@ -30,6 +30,8 @@
    - [Python-разработчик с нуля](https://netology.ru/programs/python) 
 - [Udemy](https://www.udemy.com/)
    - [Сайт на Django 3. Сервис по сбору данных.](https://www.udemy.com/course/site-on-django-3/)
+   - [Python в веб с нуля до создания приложений. Python + Django](www.udemy.com/course/python-pythondjango/l)
+
 - [Youtube](https://youtube.com/)  
 ***
 ### 🔧 Навыки:
