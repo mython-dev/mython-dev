@@ -69,7 +69,7 @@
           <kbd>FrameWorks</kbd>
           <br>
           <br>
-          <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" />
+          <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" />
         </kbd>
         
 </p>
