@@ -68,7 +68,7 @@
         </kbd>
 <kbd> 
  <br> 
-   ![Dj](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=#006400)
+   ![Dj](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=F88C00)
   </kbd>
  
  
