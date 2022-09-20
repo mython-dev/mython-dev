@@ -2,7 +2,9 @@
 
 
 <h2 align="center">Я myth-dev 🧑‍💻</h2>
-### Я junior Бэкэнд Программист и Кибербезопасник.
+
+## Я junior Бэкэнд Программист и Кибербезопасник.
+
 <p align="center">
 <a href="https://mython.uz/" target="_blank">
    <img src="https://img.shields.io/badge/-mython.uz-black?logo=dialogflow&style=for-the-badge">
