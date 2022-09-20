@@ -76,7 +76,7 @@
 ***
 
 
-Где учился: 
+<h3 align='center'>Где учился 👨‍🎓: </h3>  
 
 - [Skillbox](https://skillbox.com/)
    - [Профессия Специалист по кибербезопасности](https://skillbox.uz/course/profession-cybersecurity)
