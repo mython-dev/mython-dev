@@ -23,7 +23,7 @@
 Где учился: 
 
 - Skillbox
-- Netologiya
+- Netology
 - Udemy
 - YouTube
 
