@@ -1,14 +1,10 @@
-<h1 align='center'>Всем привет 👋.</h1>
-
-
-<h2 align='center'>Я myth-dev 🧑‍💻 </h2>
-   
-<p align='center'>
+<h1 align="center">Всем Привет 👋 Я myth-dev</h1>
+<p align="center">
 <a href="https://mython.uz/" target="_blank">
-   <img  src="https://img.shields.io/badge/-portfolio-black?logo=dialogflow&style=for-the-badge">
-<br>   
-<img align= 'center' src="https://gpvc.arturio.dev/mythob-dev">
+   <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a>
+<br>
+<img src="https://gpvc.arturio.dev/mython-dev">
 </p>
 
 
