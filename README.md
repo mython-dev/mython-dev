@@ -73,7 +73,7 @@
 
 
 Где учился: 
-***
+
 - [Skillbox](https://skillbox.com/)
    - [Профессия Специалист по кибербезопасности](https://skillbox.uz/course/profession-cybersecurity)
 - [Netology](https://netology.ru/)
