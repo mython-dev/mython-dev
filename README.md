@@ -89,7 +89,7 @@
 - [Youtube](https://youtube.com/) 
 
 
-<h3 align='center'>🌐 Социальные сети:</h3>
+<h3 align='center'>Свяжитесь со мной 📞: </h3>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/myth_dev)
 <br>
