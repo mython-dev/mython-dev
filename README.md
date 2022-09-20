@@ -31,8 +31,6 @@
 ***
 ### 🔧 Навыки:
 
-***
-
    <kbd>
           <kbd>Бэк-энд</kbd>
           <br>
@@ -71,7 +69,6 @@
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
         </kbd>
 
- ***
  
 <h2 align="center"><u>Мои лучшие работы</u></h2>
       
@@ -79,6 +76,7 @@
 | ----------------------|------------------------------------------------------- |
 | _[PyNmap](https://github.com/myth-dev-1337/PyNmap)_ | Написано на питоне умеет сканировать для вас [TCP,UDP,OS] 
 
+***
 
 ### 🌐 Социальные сети:
 
@@ -89,6 +87,8 @@
    <img src="https://img.shields.io/badge/-mython.uz-black?logo=dialogflow&style=for-the-badge">
 </a>
 <a href="mailto:miton0030@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-miton0030@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+
+***
 
 
 <p>
