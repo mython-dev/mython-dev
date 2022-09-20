@@ -21,12 +21,12 @@
 - В свободное время пишу скрипты 📝 и телеграмм боты 🤖. 
 
 Где учился: 
-
+***
 - [Skillbox](https://skillbox.uz/course/profession-cybersecurity/)
 - [Netology](https://netology.ru/programs/python)
 - [Udemy](https://www.udemy.com/course/site-on-django-3/)
 - [Youtube](https://youtube.com/)  
-
+***
 ### 🔧 Навыки:
 
    <kbd>
