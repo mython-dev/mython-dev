@@ -25,7 +25,7 @@
 
 <h3 align='center'>🔧 Навыки:</h3>   
 
-
+<p align="center">
 
            
    <kbd>
@@ -65,6 +65,8 @@
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
         </kbd>
+        
+</p>
 
  
 <h2 align="center"><u>Мои лучшие работы ☠</u></h2>
