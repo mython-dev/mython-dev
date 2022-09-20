@@ -76,7 +76,7 @@
 ***
 
 
-<h3 align='center'>Где учился 👨‍🎓: </h3>  
+<h3 align='center'>Где учился 👨‍🎓</h3>  
 
 - [Skillbox](https://skillbox.com/)
    - [Профессия Специалист по кибербезопасности](https://skillbox.uz/course/profession-cybersecurity)
@@ -94,7 +94,7 @@
 <p>
    </p>
    
-<h3 align='center'>Статистика моего профиля 📊:</h3>   
+<h3 align='center'>Статистика моего профиля 📊</h3>   
 
 <p align="center">
 
@@ -106,7 +106,7 @@
  
  
  
-<h3 align='center'>Свяжитесь со мной 📞: </h3>
+<h3 align='center'>Свяжитесь со мной 📞</h3>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/myth_dev)
 <br>
