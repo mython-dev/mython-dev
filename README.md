@@ -12,7 +12,6 @@
 <p align="center">
 
 
-#### Я junior backend Разработчик ⚙️ и Кибербезопасник 🔒.
 
 - Я изучаю Python, Bash, Django, Linux, Pentesting, Cyber Security.
 
