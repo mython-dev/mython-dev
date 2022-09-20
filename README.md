@@ -3,7 +3,7 @@
 
 <h2 align="center">Я myth-dev 🧑‍💻</h2>
 
-<p align="center">
+<p>
 <a href="https://mython.uz/" target="_blank">
    <img src="https://img.shields.io/badge/-mython.uz-black?logo=dialogflow&style=for-the-badge">
 </a>
