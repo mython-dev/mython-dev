@@ -1,9 +1,9 @@
 <h1 align='center'>Всем привет 👋.</h1>
 
 
-<h2>Я myth-dev 🧑‍💻</h2>
+<h2 align='center'>Я myth-dev 🧑‍💻</h2>
 
-<p>
+<p align='center'>
 <a href="https://mython.uz/" target="_blank">
    <img src="https://img.shields.io/badge/-portfolio-black?logo=dialogflow&style=for-the-badge">
    
