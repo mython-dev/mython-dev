@@ -25,7 +25,10 @@
  
 ***
 
-<h3 align='center'>🔧 Навыки:</h3>           
+<h3 align='center'>🔧 Навыки:</h3>   
+
+
+
            
    <kbd>
           <kbd>Бэк-энд</kbd>
