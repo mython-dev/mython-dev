@@ -12,7 +12,6 @@
 <br>
 <img src="https://gpvc.arturio.dev/myth-dev-1337">
 
-***
 
 - Я изучаю Python, Bash, Django, Linux, Pentesting, Cyber Security.
 
@@ -21,8 +20,6 @@
 - Мое хобби играть в игры --> "особенно cs go" 🎮.
 
 - В свободное время пишу скрипты 📝 и телеграмм боты 🤖. 
-***
-
 
 
 Где учился: 
@@ -33,6 +30,8 @@
 - [Youtube](https://youtube.com/)  
 ***
 ### 🔧 Навыки:
+
+***
 
    <kbd>
           <kbd>Бэк-энд</kbd>
@@ -72,7 +71,7 @@
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
         </kbd>
 
- 
+ ***
  
 <h2 align="center"><u>Мои лучшие работы</u></h2>
       
