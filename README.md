@@ -22,8 +22,8 @@
 
 Где учился: 
 
-- Skillbox
-- Netology
+- [Skillbox](https://skillbox.com/)
+- [Netology](https://netology.ru/)
 - Udemy
 - YouTube
 
@@ -66,10 +66,7 @@
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
         </kbd>
-<kbd> 
- <br> 
-![Dj](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=F88C00)
-  </kbd>
+
  
  
 <h2 align="center"><u>Мои лучшие работы</u></h2>
