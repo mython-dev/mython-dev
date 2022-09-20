@@ -7,6 +7,9 @@
 <img src="https://gpvc.arturio.dev/mython-dev">
 </p>
 
+</p>
+<h3 align="center">Я junior backend Разработчик ⚙️ и Кибербезопасник 🔒.</h3>
+<p align="center">
 
 
 #### Я junior backend Разработчик ⚙️ и Кибербезопасник 🔒.
