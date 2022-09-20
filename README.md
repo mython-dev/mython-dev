@@ -88,20 +88,6 @@
 
 - [Youtube](https://youtube.com/) 
 
-
-<h3 align='center'>Свяжитесь со мной 📞: </h3>
-
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/myth_dev)
-<br>
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/mython_dev/)
-<br>
-<a href="https://mython.uz/" target="_blank">
-   <img src="https://img.shields.io/badge/-mython.uz-black?logo=dialogflow&style=for-the-badge">
-</a>
-<br>
-<a href="mailto:miton0030@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-miton0030@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
-<br>
-
 ***
 
 
@@ -117,4 +103,19 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mython-dev)](https://github.com/anuraghazra/github-readme-stats)
    
  </p>
+ 
+ 
+ 
+<h3 align='center'>Свяжитесь со мной 📞: </h3>
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/myth_dev)
+<br>
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/mython_dev/)
+<br>
+<a href="https://mython.uz/" target="_blank">
+   <img src="https://img.shields.io/badge/-mython.uz-black?logo=dialogflow&style=for-the-badge">
+</a>
+<br>
+<a href="mailto:miton0030@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-miton0030@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+<br>
 
