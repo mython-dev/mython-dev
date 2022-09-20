@@ -74,7 +74,7 @@
           <kbd>Framework</kbd>
           <br>
           <br>
-          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dj/dj-original.svg" />
+          <img width="" src="https://www.liblogo.com/img-logo/max/dj3164dc9b-django-logo-django-community-logo-png-transparent-amp-svg-vector-freebie-supply.png" />
         </kbd>
       </p>     
  
