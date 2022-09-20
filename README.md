@@ -9,11 +9,11 @@
 </a>
 </p>
 
-#### Я junior Бэкэнд Программист и Кибербезопасник.
  
 <br>
 <img src="https://gpvc.arturio.dev/myth-dev-1337">
 
+#### Я junior Бэкэнд Программист и Кибербезопасник.
 
 - Я изучаю Python, Bash, Django, Linux, Pentesting, Cyber Security.
 
