@@ -6,7 +6,7 @@
 <p align='center'>
 <a href="https://mython.uz/" target="_blank">
    <img  src="https://img.shields.io/badge/-portfolio-black?logo=dialogflow&style=for-the-badge">
-   
+<br>   
 <img align= 'center' src="https://gpvc.arturio.dev/mythob-dev">
 </a>
 </p>
