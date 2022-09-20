@@ -24,8 +24,8 @@
 
 - [Skillbox](https://skillbox.uz/course/profession-cybersecurity/)
 - [Netology](https://netology.ru/programs/python)
-- [Udemy](https://www.udemy.com/course/site-on-django-3/learn/lecture/19678142#overview)
-- Youtube<img width="60px" src="https://www.logo.wine/a/logo/YouTube/YouTube-Logo.wine.svg" /> 
+- Udemy <img width="60px" src="https://s.udemycdn.com/meta/default-meta-image-v2.png" />
+- Youtube <img width="60px" src="https://www.logo.wine/a/logo/YouTube/YouTube-Logo.wine.svg" /> 
 
 ### 🔧 Навыки:
 
