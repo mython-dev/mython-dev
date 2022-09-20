@@ -50,7 +50,6 @@
           <br>
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-   </p>
         </kbd>
 
    <kbd>
@@ -60,10 +59,6 @@
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
           <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
         </kbd>
-
-
-
-
   <kbd>
           <kbd>OS</kbd>
           <br>
