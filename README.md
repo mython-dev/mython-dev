@@ -11,7 +11,7 @@
  
 <br>
 <img src="https://gpvc.arturio.dev/myth-dev-1337">
-
+***
 - Я изучаю Python, Bash, Django, Linux, Pentesting, Cyber Security.
 
 - Что планироваю в дальнейшем изучать С#, SWIFT, KOTLIN, JS(базовый) и можеть быть GO.
@@ -19,6 +19,7 @@
 - Мое хобби играть в игры --> "особенно cs go" 🎮.
 
 - В свободное время пишу скрипты 📝 и телеграмм боты 🤖. 
+***
 
 Где учился: 
 ***
