@@ -72,14 +72,12 @@
         </kbd>
       </p>
   <kbd>
-          
-  <kbd>  
-   <kbd>Framework</kbd>
+      
+   <kbd>Fw</kbd>
           <br>
           <br>
-          <img width="60px" src="https://www.liblogo.com/img-logo/max/dj3164dc9b-django-logo-django-community-logo-png-transparent-amp-svg-vector-freebie-supply.png" />
-        </kbd>
-     </kbd>  
+          <img width="30px" src="https://www.liblogo.com/img-logo/max/dj3164dc9b-django-logo-django-community-logo-png-transparent-amp-svg-vector-freebie-supply.png" />
+        </kbd> 
  
 <h2 align="center"><u>Мои лучшие работы</u></h2>
       
