@@ -70,6 +70,14 @@
         </kbd>
       </p>
       
+  <kbd>
+          <kbd>Framework</kbd>
+          <br>
+          <br>
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dj/dj-original.svg" />
+        </kbd>
+      </p>     
+ 
 <h2 align="center"><u>Мои лучшие работы</u></h2>
       
 | Имя                  | Описания                                            |
