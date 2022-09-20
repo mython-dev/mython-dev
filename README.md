@@ -20,19 +20,7 @@
 - Мое хобби играть в игры --> "особенно cs go" 🎮.
 
 - В свободное время пишу скрипты 📝 и телеграмм боты 🤖. 
-
-
-Где учился: 
-***
-- [Skillbox](https://skillbox.com/)
-   - [Профессия Специалист по кибербезопасности](https://skillbox.uz/course/profession-cybersecurity)
-- [Netology](https://netology.ru/)
-   - [Python-разработчик с нуля](https://netology.ru/programs/python) 
-- [Udemy](https://www.udemy.com/)
-   - [Сайт на Django 3. Сервис по сбору данных.](https://www.udemy.com/course/site-on-django-3/)
-   - [Python в веб с нуля до создания приложений. Python + Django](www.udemy.com/course/python-pythondjango/l)
-
-- [Youtube](https://youtube.com/)  
+ 
 ***
 ### 🔧 Навыки:
 
@@ -82,6 +70,20 @@
 | _[PyNmap](https://github.com/myth-dev-1337/PyNmap)_ | Написано на питоне умеет сканировать для вас [TCP,UDP,OS] 
 
 ***
+
+
+Где учился: 
+***
+- [Skillbox](https://skillbox.com/)
+   - [Профессия Специалист по кибербезопасности](https://skillbox.uz/course/profession-cybersecurity)
+- [Netology](https://netology.ru/)
+   - [Python-разработчик с нуля](https://netology.ru/programs/python) 
+- [Udemy](https://www.udemy.com/)
+   - [Сайт на Django 3. Сервис по сбору данных.](https://www.udemy.com/course/site-on-django-3/)
+   - [Python в веб с нуля до создания приложений. Python + Django](www.udemy.com/course/python-pythondjango/l)
+
+- [Youtube](https://youtube.com/) 
+
 
 ### 🌐 Социальные сети:
 
