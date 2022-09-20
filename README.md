@@ -67,7 +67,7 @@
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
         </kbd>
       
-![Django](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![Django](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=E5D3FF)
 
  
  
