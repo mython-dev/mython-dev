@@ -103,7 +103,7 @@
 <p>
    </p>
    
-<h3 align='center'>Статистика моего профиля:</h3>   
+<h3 align='center'>Статистика моего профиля 📊:</h3>   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myth-dev-1337&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
