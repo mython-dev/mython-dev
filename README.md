@@ -11,7 +11,7 @@
 
  
 <br>
-<img src="https://gpvc.arturio.dev/myth-dev-1337">
+<center><img src="https://gpvc.arturio.dev/myth-dev-1337"></center>
 
 #### Я junior Бэкэнд Программист и Кибербезопасник.
 
