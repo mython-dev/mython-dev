@@ -1,7 +1,7 @@
 # Всем привет 👋. 
 
 
-<h2 align="center">Я myth-dev 🧑‍💻</h2>
+<h2>Я myth-dev 🧑‍💻</h2>
 
 <p>
 <a href="https://mython.uz/" target="_blank">
