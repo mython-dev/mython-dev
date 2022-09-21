@@ -9,9 +9,9 @@
 
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Я+junior+Разработчик+⚙️ и+Кибербезопасник 🔒;Second+line+of+text)](https://git.io/typing-svg)
 
-Я junior backend Разработчик ⚙️ и Кибербезопасник 🔒
+Я  backend  ⚙️ и Кибербезопасник 🔒
 
 <p align="center">
 
