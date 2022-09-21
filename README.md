@@ -111,7 +111,8 @@
    - [Сайт на Django 3. Сервис по сбору данных.](https://www.udemy.com/course/site-on-django-3/)
    - [Python в веб с нуля до создания приложений. Python + Django](www.udemy.com/course/python-pythondjango/l)
 
-- [Youtube](https://youtube.com/) 
+- [Youtube](https://youtube.com/)
+   - [Python для начинающих](https://www.youtube.com/playlist?list=PLAma_mKffTOSY12JZS6l8lxKCpooPVcrn)
 
 ***
 
