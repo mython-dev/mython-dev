@@ -9,10 +9,13 @@
 
 </p>
 
-<a align = 'center' href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EC027&background=FFCAEA00&center=true&vCenter=true&width=435&lines=Im+a+junior+backend+developer;Im+a+junior+cybersecurity+specialist" alt="Typing SVG" /></a>
+<p align='center'
+
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EC027&background=FFCAEA00&center=true&vCenter=true&width=435&lines=Im+a+junior+backend+developer;Im+a+junior+cybersecurity+specialist" alt="Typing SVG" /></a>
+
+</p>
+
 <p align="center">
-
-
 
 - Я изучаю Python, Bash, Django, Flask, Linux, Pentesting, Cyber Security.
 
