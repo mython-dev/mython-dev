@@ -9,7 +9,7 @@
 
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&width=435&lines=I am a+junior+cybersecurity+specialist+;I+am+a+junior+backend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&width=435&lines=I+ am+junior+cybersecurity+specialist+;I+am+a+junior+backend+developer)](https://git.io/typing-svg)
 
 <p align="center">
 
