@@ -8,7 +8,7 @@
 </p>
 
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+junior+backend+Разработчик+⚙️+и+Кибербезопасник+🔒)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 Я junior backend Разработчик ⚙️ и Кибербезопасник 🔒
 
