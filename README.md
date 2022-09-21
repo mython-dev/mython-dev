@@ -9,7 +9,7 @@
 
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/color=20C20E&?lines=I'm+junior+backend+developer;I'm+junior+a+cybersecurity+specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/color=20C20E?lines=I'm+junior+backend+developer;I'm+junior+a+cybersecurity+specialist)](https://git.io/typing-svg)
 
 
 I'm a junior backend developer⚙️ and a cybersecurity guy🔒
