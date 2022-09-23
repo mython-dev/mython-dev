@@ -127,7 +127,7 @@
    </p>
    
 <h3 align='center'>Статистика моего профиля 📊</h3>   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mython-dev&layout=compact&theme=radical)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mython-dev&layout=compact&theme=radical)
 <p><a href="https://github.com/mython-dev">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=mython-dev&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
