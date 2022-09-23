@@ -128,9 +128,9 @@
    
 <h3 align='center'>Статистика моего профиля 📊</h3>   
 
-![Dynamic name](https://github-readme-stats.vercel.app/api?username=mython-dev&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=mython-dev&show_icons=true&theme=radical)
 
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mython-dev&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mython-dev&layout=compact&theme=radical)
 
  
  
