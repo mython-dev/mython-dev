@@ -134,6 +134,8 @@
 <!-- <a href="https://github.com/mython-dev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mython-dev&layout=compact&theme=react&hide_border=true" /> -->
 </a></p>
 
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mython-dev&layout=compact&theme=radical)
+
  
  
 <h3 align='center'>Свяжитесь со мной 📞</h3>
