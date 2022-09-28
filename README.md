@@ -68,6 +68,10 @@
           <br>
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
           <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+          <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" />
+          
+          <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" />
+          <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg" />
         </kbd>
   <kbd>
           <kbd>OS</kbd>
