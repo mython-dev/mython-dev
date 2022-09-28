@@ -107,15 +107,7 @@
       
 | Имя                  | Описания                                            |
 | ----------------------|------------------------------------------------------- |
-| _[PyNmap](https://github.com/myth-dev-1337/PyNmap)_ | Написано на питоне умеет сканировать для вас [TCP,UDP,OS] 
-
-***
-
-
-<h3 align='center'>Где учился 👨‍🎓</h3>  
-
-- [Skillbox](https://skillbox.com/)
-   - [Профессия Специалист по кибербезопасности](https://skillbox.uz/course/profession-cybersecurity)
+| _[PyNmap](https://github.com/myth-dev-1337/PyNmap)_ | Написано на питоне умеет сканировать [TCP,UDP,OS, NSE.VULNERS]
 - [Netology](https://netology.ru/)
    - [Python-разработчик с нуля](https://netology.ru/programs/python) 
 - [Udemy](https://www.udemy.com/)
