@@ -107,7 +107,8 @@
       
 | Имя                  | Описания                                            |
 | ----------------------|------------------------------------------------------- |
-| _[PyNmap](https://github.com/myth-dev-1337/PyNmap)_ | Написано на питоне умеет сканировать [TCP,UDP,OS, NSE.VULNERS]
+| _[PyNmap](https://github.com/mython-dev/PyNmap)_ | Написано на питоне умеет сканировать [TCP,UDP,OS, NSE.VULNERS]
+|_[PyHackTool](https://github.com/mython-dev/pyhacktool)_ | PyHackTools — это установшик инструментов для пентеста на Linux(Debian,Ubuntu). Этот инструмент облегчает вам задачу. Вам не нужно искать инструмента в github и т.д и клонировать. Вам останется только выбрать инструмента.|
 - [Netology](https://netology.ru/)
    - [Python-разработчик с нуля](https://netology.ru/programs/python) 
 - [Udemy](https://www.udemy.com/)
