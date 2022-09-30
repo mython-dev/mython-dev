@@ -113,6 +113,8 @@
 
 <h2 align="center"><u>Где я учился 👨‍🎓</u></h2>
 
+- [Skillbox](https://skillbox.com/)
+   - [Профессия Специалист по кибербезопасности](https://skillbox.uz/course/profession-cybersecurity/)
 - [Netology](https://netology.ru/)
    - [Python-разработчик с нуля](https://netology.ru/programs/python) 
 - [Udemy](https://www.udemy.com/)
