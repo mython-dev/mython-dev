@@ -123,6 +123,7 @@
 
 - [Youtube](https://youtube.com/)
    - [Python для начинающих](https://www.youtube.com/playlist?list=PLAma_mKffTOSY12JZS6l8lxKCpooPVcrn)
+   - и т.д...
 
 ***
 
