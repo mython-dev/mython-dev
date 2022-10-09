@@ -25,7 +25,7 @@
 
 - Я изучаю Python, Bash, Django, Flask, Linux, Pen-Testing, Cyber-Security , Web-Hacking, Virus science.
 
-- Что планироваю в дальнейшем изучать С#, SWIFT, KOTLIN, JS(базовый) и можеть быть GO.
+- Что планироваю в дальнейшем изучать С#, SWIFT, KOTLIN, JS(базовый) и можеть быть GO, Reverse Engineering:).
 
 - Мое хобби играть в игры --> "особенно cs go" 🎮.
 
