@@ -17,6 +17,9 @@
 <img src="https://gpvc.arturio.dev/mython-dev">
 </p> -->
 
+<h3 align="center"
+Обо мне👨‍💻
+</h3>
 
 <p align="center">
 
