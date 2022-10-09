@@ -1,4 +1,7 @@
 <h1 align="center">Всем Привет 👋 Я myth-dev</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <p align="center">
 <a href="https://mython.uz/" target="_blank">
    <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
