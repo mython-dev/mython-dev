@@ -3,10 +3,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-
+<p align='center'>
 
 <a  href="https://oxsoos.uz/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EC027&background=FFCAEA00&center=true&vCenter=true&width=435&lines=Im+a+junior+backend+developer;Im+a+junior+cybersecurity+specialist" alt="Typing SVG" /></a>
-
+</p>
 
 
 
