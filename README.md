@@ -11,8 +11,6 @@
 <a href="#" target="_blank">
    <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a>
-
-<br>
 <img src="https://gpvc.arturio.dev/mython-dev">
 </p>
 
