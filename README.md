@@ -7,12 +7,12 @@
 <a  href="https://oxsoos.uz/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EC027&background=FFCAEA00&center=true&vCenter=true&width=435&lines=Im+a+junior+backend+developer;Im+a+junior+cybersecurity+specialist" alt="Typing SVG" /></a>
 </p>
 <!-- 
-<p align='center'>-->
-<a href="#" target="_blank">-->
+<p align='center'>
+<a href="#" target="_blank">-
 <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 <br>
 </a>
-<img src="https://gpvc.arturio.dev/mython-dev">-->
+<img src="https://gpvc.arturio.dev/mython-dev">
 </p> -->
 
 
