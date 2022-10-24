@@ -64,6 +64,23 @@
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
         </kbd>
+      <kbd>
+            <kbd>Фреймворки</kbd>
+            <br>
+            <br>
+            <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg"/>
+            <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" />
+
+    </kbd>
+  
+   <kbd>
+          <kbd>Web-Сервер</kbd>
+          <br>
+          <br>
+          <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apache/apache-original.svg"/>
+          <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nginx/nginx-original.svg" />
+     
+  </kbd>
    
    
 <br>   
@@ -93,23 +110,7 @@
           <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg" />
           <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/debian/debian-original.svg" />          
           </kbd>
-  <kbd>
-          <kbd>Фреймворки</kbd>
-          <br>
-          <br>
-          <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg"/>
-          <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" />
-     
-  </kbd>
    
-  <kbd>
-          <kbd>Web-Сервер</kbd>
-          <br>
-          <br>
-          <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apache/apache-original.svg"/>
-          <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nginx/nginx-original.svg" />
-     
-  </kbd>
         
 </p>
 
