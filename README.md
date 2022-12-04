@@ -116,12 +116,12 @@
       
 | Имя                  | Описания                                            |
 | ----------------------|------------------------------------------------------- |
-| _[PyNmap](https://github.com/mython-dev/PyNmap)_ | Написано на питоне умеет сканировать [TCP,UDP,OS, NSE.VULNERS]
-|_[PyHackTool](https://github.com/mython-dev/pyhacktool)_ | PyHackTool — это установшик инструментов для пентеста на Linux(Debian,Ubuntu). Этот инструмент облегчает вам задачу. Вам не нужно искать инструмент в github и т.д и клонировать. Вам останется только выбрать инструмент.|
-|_[Mythical-Payload](https://github.com/mython-dev/mythical-payload)_ | Payload Creator for Operating Systems and Programming Language.|
-|_[Translator bot](https://github.com/mython-dev/trans_bot)_ | Переводчик бот умеет переводить Английский и Русский Узбекский. |
-|_[YouTube and Instagram Downloader Bot ⭐️](https://github.com/mython-dev/bot_downloader/)_ | Бот скачивает видео с YouTube, Instagram.  |
-|_[Text to Audio Converter star](https://github.com/mython-dev/text-to-audio-converter)_ | Convert Audio to Text using Telebot gTTS.  |
+| _[PyNmap ⭐️⭐️⭐️⭐](https://github.com/mython-dev/PyNmap)_ | Написано на питоне умеет сканировать [TCP,UDP,OS, NSE.VULNERS]
+|_[PyHackTool ⭐️⭐️⭐️⭐️⭐️](https://github.com/mython-dev/pyhacktool)_ | PyHackTool — это установшик инструментов для пентеста на Linux(Debian,Ubuntu). Этот инструмент облегчает вам задачу. Вам не нужно искать инструмент в github и т.д и клонировать. Вам останется только выбрать инструмент.|
+|_[Mythical-Payload ⭐️⭐️⭐️⭐️⭐️](https://github.com/mython-dev/mythical-payload)_ | Payload Creator for Operating Systems and Programming Language.|
+|_[Translator bot ⭐️⭐️](https://github.com/mython-dev/trans_bot)_ | Переводчик бот умеет переводить Английский и Русский Узбекский. |
+|_[YouTube and Instagram Downloader Bot ⭐️⭐️⭐️](https://github.com/mython-dev/bot_downloader/)_ | Бот скачивает видео с YouTube, Instagram.  |
+|_[Text to Audio Converter star ⭐️⭐️⭐️⭐️](https://github.com/mython-dev/text-to-audio-converter)_ | Convert Audio to Text using Telebot gTTS.  |
 
 <h2 align="center"><u>Где я учился 👨‍🎓</u></h2>
 
