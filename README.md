@@ -119,7 +119,7 @@
 | _[PyNmap ⭐️⭐️⭐️⭐ (4/5)](https://github.com/mython-dev/PyNmap)_ | Написано на питоне умеет сканировать [TCP,UDP,OS, NSE.VULNERS]
 |_[PyHackTool ⭐️⭐️⭐️⭐️⭐️ (5/5)](https://github.com/mython-dev/pyhacktool)_ | PyHackTool — это установшик инструментов для пентеста на Linux(Debian,Ubuntu). Этот инструмент облегчает вам задачу. Вам не нужно искать инструмент в github и т.д и клонировать. Вам останется только выбрать инструмент.|
 |_[Mythical-Payload ⭐️⭐️⭐️⭐️⭐️ (5/5)](https://github.com/mython-dev/mythical-payload)_ | Payload Creator for Operating Systems and Programming Language.|
-|_[Translator bot ⭐️⭐️ (2/5)](https://github.com/mython-dev/trans_bot)_ | Переводчик бот умеет переводить Английский и Русский Узбекский. |
+|_[Whois Bot ⭐️⭐️⭐️⭐️ (4/5)](https://github.com/mython-dev/Whois-Bot)_ | Whois-Bot отображает провайдера и местоположение IP-адреса или домена |
 |_[YouTube and Instagram Downloader Bot ⭐️⭐️⭐️ (3/5)](https://github.com/mython-dev/bot_downloader/)_ | Бот скачивает видео с YouTube, Instagram.  |
 |_[Text to Audio Converter star ⭐️⭐️⭐️⭐️ (4/5)](https://github.com/mython-dev/text-to-audio-converter)_ | Convert Audio to Text using Telebot gTTS.  |
 
