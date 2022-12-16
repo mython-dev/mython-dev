@@ -143,7 +143,7 @@
    
 <h3 align='center'>My github profile statistics 📊</h3>   
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mython-dev)](https://github.com/mython-dev/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mython-dev)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://github-readme-stats.vercel.app/api?username=mython-dev&show_icons=true&theme=radical)
 
