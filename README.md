@@ -143,13 +143,12 @@
    
 <h3 align='center'>My github profile statistics 📊</h3>   
 
-<p align='center'>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mython-dev&layout=compact&theme=radical)
+<p align='center'> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mython-dev&layout=compact&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api?username=mython-dev&show_icons=true&theme=radical)
-
-</p>
+        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mython-dev)](https://github.com/mython-dev/github-readme-stats)
+ </p>
 
 ### Find Me on 🌐
 
