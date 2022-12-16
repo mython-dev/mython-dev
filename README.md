@@ -145,10 +145,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=mython-dev&show_icons=true&theme=radical)
 
-        
-<center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mython-dev)](https://github.com/mython-dev/github-readme-stats)</center>
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mython-dev)](https://github.com/mython-dev/github-readme-stats)
 ### Find Me on 🌐
 
 [![Github](https://img.shields.io/badge/Github-mython_dev-green?style=for-the-badge&logo=github)](https://github.com/mython-dev) 
