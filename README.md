@@ -134,6 +134,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mython-dev&layout=compact&theme=radical)
 
+<a href="https://github.com/mython-dev"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=mython-dev&color=blueviolet&style=flat-square"></a>
 
  
 <h3 align='center'>Свяжитесь со мной 📞</h3>
