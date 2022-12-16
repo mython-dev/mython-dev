@@ -156,7 +156,6 @@
 
 [telegram]: https://t.me/myth_dev
 [gmail]: mailto:miton0030@gmail.com
-[instagram]: https://instagram.cin/myth-dev
+[instagram]: https://instagram.com/myth-dev
 [instagram]: https://instagram.com/h4ckerworld
 [github]: https://github.com/mython-dev
-[profile]: https://andinoriel.github.io/
