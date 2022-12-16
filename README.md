@@ -12,6 +12,8 @@
 
            
 "I know Hack and I believe in Hak. So...You have no chance :/"
+
+""You may stop this individual, but you can't stop us all... after all, we're all alike.""
    
 </pre>
 
