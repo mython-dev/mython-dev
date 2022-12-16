@@ -13,7 +13,7 @@
 
 <p align="center">
 
-- Я изучаю Python, Bash, Django, Flask, Linux, Pen-Testing, Cyber-Security , Web-Hacking, Virus science.
+- Я изучаю Python, Bash, Django, Linux, Pen-Testing, Cyber-Security , Web-Hacking, Virus science.
 
 - Что планироваю в дальнейшем изучать С#, Ruby, Reverse Engineering:).
 
