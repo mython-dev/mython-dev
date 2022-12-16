@@ -10,7 +10,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/mython-dev"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=mython-dev&color=blueviolet&style=flat-square"></a></p>
-<pre>
+<pre align="center">
                  _   _               _            
  _ __ ___  _   _| |_| |__         __| | _____   __
 | '_ ` _ \| | | | __| '_ \ _____ / _` |/ _ \ \ / /
