@@ -154,10 +154,9 @@
 
 ### Find Me on 🌐
 
-[![Github](https://img.shields.io/badge/Github-mython_dev-green?style=for-the-badge&logo=github)](https://github.com/mython-dev) 
-
-[![Gmail](https://img.shields.io/badge/Gmail-miton0030-green?style=for-the-badge&logo=gmail)](mailto:miton0030@gmail.com)
-
-[![Instagram](https://img.shields.io/badge/mython_dev--green?style=for-the-badge&logo=instagram)](https://instagram.com/mython_dev)
-
-[![Instagram](https://img.shields.io/badge/h4ckerworld--green?style=for-the-badge&logo=instagram)](https://instagram.com/h4ckerworld)
+[telegram]: https://t.me/myth_dev
+[gmail]: mailto:miton0030@gmail.com
+[instagram]: https://instagram.cin/myth-dev
+[instagram]: https://instagram.com/h4ckerworld
+[github]: https://github.com/mython-dev
+[profile]: https://andinoriel.github.io/
