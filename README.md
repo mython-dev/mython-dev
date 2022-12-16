@@ -143,13 +143,20 @@
    
 <h3 align='center'>My github profile statistics 📊</h3>   
 
-![](https://github-readme-stats.vercel.app/api?username=mython-dev&show_icons=true&theme=radical)
+<p align='center'>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mython-dev&layout=compact&theme=radical)
 
+![](https://github-readme-stats.vercel.app/api?username=mython-dev&show_icons=true&theme=radical)
 
-<h3 align='center'>Find Me on 🌐</h3>  
+</p>
 
-[![Github](https://img.shields.io/badge/Github-mython_dev-green?style=for-the-badge&logo=github)](https://github.com/mython-dev) [![Gmail](https://img.shields.io/badge/Gmail-miton0030-green?style=for-the-badge&logo=gmail)](mailto:miton0030@gmail.com)
-<br>
-[![Instagram](https://img.shields.io/badge/mython_dev--green?style=for-the-badge&logo=instagram)](https://instagram.com/mython_dev)[![Instagram](https://img.shields.io/badge/h4ckerworld--green?style=for-the-badge&logo=instagram)](https://instagram.com/h4ckerworld)
+### Find Me on 🌐
+
+[![Github](https://img.shields.io/badge/Github-mython_dev-green?style=for-the-badge&logo=github)](https://github.com/mython-dev) 
+
+[![Gmail](https://img.shields.io/badge/Gmail-miton0030-green?style=for-the-badge&logo=gmail)](mailto:miton0030@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/mython_dev--green?style=for-the-badge&logo=instagram)](https://instagram.com/mython_dev)
+
+[![Instagram](https://img.shields.io/badge/h4ckerworld--green?style=for-the-badge&logo=instagram)](https://instagram.com/h4ckerworld)
