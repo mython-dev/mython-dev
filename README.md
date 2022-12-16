@@ -22,38 +22,38 @@
 <a  href="https://oxsoos.uz/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EC027&background=FFCAEA00&center=true&vCenter=true&width=435&lines=Im+a+junior+backend+developer;Im+a+junior+cybersecurity+specialist;Im+a+system+administrator+Linux" alt="Typing SVG" /></a>
 </p>
 
-<h2 align='center'>Обо мне👨‍💻:</h2> 
+<h2 align='center'>About me 👨‍💻:</h2> 
 
 <p align="center">
 
-- Я изучаю Python, Bash, Django, Linux, Pen-Testing, Cyber-Security , Web-Hacking, Virus science.
+- I am studying Python, Bash, Django, Linux, Pen-Testing, Cyber-Security , Web-Hacking, Virus science.
 
-- Что планироваю в дальнейшем изучать С#, Ruby, Reverse Engineering:).
+- What I plan to study in the future С#, Ruby, Reverse Engineering:).
 
-- Мое хобби играть в игры --> "особенно cs go" 🎮.
+- My hobby play games --> "especially cs go" 🎮.
 
-- В свободное время пишу скрипты 📝 и телеграмм боты 🤖, и играю ctf --> https://hackthebox.com. 
+- In my free time I write scripts 📝 and telegram bots 🤖, and play ctf --> https://hackthebox.com. 
 
-- Какие языки я знаю: English(elementary), Russian, Узбекский.
+- What languages do I know: English(elementary), Russian, Uzbek.
 
-- Какие Операционные системы  использую обычно: Mac Os, Kali Linux, Ubuntu, Windows
+- What operating systems are usually used: Mac Os, Kali Linux, Ubuntu, Windows
  
 ***
 
-<h3 align='center'>🔧 Навыки:</h3>   
+<h3 align='center'>🔧 Skills:</h3>   
 
 <p align="center">
 
            
    <kbd>
-          <kbd>Бэк-энд</kbd>
+          <kbd>Back-end</kbd>
           <br>
           <br>
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
         </kbd>
 
    <kbd>
-          <kbd>Фронт-Энд</kbd>
+          <kbd>Front-end(basic)</kbd>
           <br>
           <br>
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
@@ -61,14 +61,14 @@
         </kbd>
 
    <kbd>
-          <kbd>Скрипты</kbd>
+          <kbd>Scripts</kbd>
           <br>
           <br>
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
         </kbd>
    <kbd>
-            <kbd>Фреймворки</kbd>
+            <kbd>Frameworks</kbd>
             <br>
             <br>
             <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg"/>
@@ -78,7 +78,7 @@
 <br>   
 <br>
    <kbd>
-          <kbd>Web-Сервер</kbd>
+          <kbd>Web-Servers</kbd>
           <br>
           <br>
           <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apache/apache-original.svg"/>
@@ -88,7 +88,7 @@
    
 
    <kbd>
-         <kbd>Инструменты</kbd>
+         <kbd>Tools</kbd>
           <br>
           <br>
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -117,16 +117,16 @@
  
 <h2 align="center"><u>Мои работы, которые мне нравятся ☠</u></h2>
       
-| Имя                  | Описания                                            |
+| Name                  | Description                                            |
 | ----------------------|------------------------------------------------------- |
-| _[PyNmap](https://github.com/mython-dev/PyNmap)_ | Написано на питоне умеет сканировать [TCP,UDP,OS, NSE.VULNERS]
-|_[PyHackTool](https://github.com/mython-dev/pyhacktool)_ | PyHackTool — это установшик инструментов для пентеста на Linux(Debian,Ubuntu). Этот инструмент облегчает вам задачу. Вам не нужно искать инструмент в github и т.д и клонировать. Вам останется только выбрать инструмент.|
+| _[PyNmap](https://github.com/mython-dev/PyNmap)_ | Written in python can scan [TCP,UDP,OS, NSE.VULNERS]
+|_[PyHackTool](https://github.com/mython-dev/pyhacktool)_ | PyHackTool — this is an installer of tools for pentest on Linux (Debian,Ubuntu). This tool makes it easier for you. You don't need to search for a tool in github, etc. and clone. You will only have to choose a tool.|
 |_[Mythical-Payload](https://github.com/mython-dev/mythical-payload)_ | Payload Creator for Operating Systems and Programming Language.|
-|_[Whois Bot](https://github.com/mython-dev/Whois-Bot)_ | Whois-Bot отображает провайдера и местоположение IP-адреса или домена |
+|_[Whois Bot](https://github.com/mython-dev/Whois-Bot)_ | Whois-Bot displays the provider and the location of the IP address or domain |
 |_[SSH brute-force](https://github.com/mython-dev/ssh-brute-force)_ | SSH brute-forcing tool written in python |
 |_[Text to Audio Converter](https://github.com/mython-dev/text-to-audio-converter)_ | Convert Audio to Text using Telebot gTTS.  |
 
-<h2 align="center"><u>Где я учился 👨‍🎓</u></h2>
+<h2 align="center"><u>Where I studied 👨‍🎓</u></h2>
 
 - [Skillbox](https://skillbox.com/)
    - [Профессия Специалист по кибербезопасности](https://skillbox.uz/course/profession-cybersecurity/)
@@ -141,7 +141,7 @@
 <p>
    </p>
    
-<h3 align='center'>Статистика моего профиля 📊</h3>   
+<h3 align='center'>My github profile statistics 📊</h3>   
 
 ![](https://github-readme-stats.vercel.app/api?username=mython-dev&show_icons=true&theme=radical)
 
@@ -150,7 +150,7 @@
 
 
  
-<h3 align='center'>Свяжитесь со мной 📞</h3>
+<h3 align='center'>Find me on</h3>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/myth_dev)
 <br>
