@@ -15,6 +15,16 @@
    
 </pre>
 
+<div class="menu">
+    <ul>
+        <li style="background-color: #999999;"><a href="https://github.com/mython-dev/">Root</a></li>
+        <li><a href="https://instagram.com/h4ckerworld">Blog</a></li>
+        <li><a href="https://github.com/mython-dev?tab=repositories">Repositories</a></li>
+        <li><a href="https://github.com/mython-dev/mython-dev#обо-мне">Whoami</a></li>
+        <li style="background-color: #393957"><a href="reverse-shell-generator.html">RevShell-Gen</a></li>
+    </ul>
+ </div>
+
 <p align='center'
 <img src="https://gpvc.arturio.dev/mython-dev">
 </p>
