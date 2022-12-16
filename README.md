@@ -145,20 +145,10 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mython-dev&theme=solarized_dark)
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mython-dev&theme=solarized_dark)
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mython-dev&theme=solarized_dark)
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mython-dev&theme=solarized_dark)
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mython-dev&theme=solarized_dark)
-
-
 ![](https://github-readme-stats.vercel.app/api?username=mython-dev&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mython-dev)](https://github.com/mython-dev/github-readme-stats)
