@@ -130,9 +130,7 @@
    
 <h3 align='center'>Статистика моего профиля 📊</h3>   
 
-![](https://github-readme-stats.vercel.app/api?username=mython-dev&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mython-dev&layout=compact&theme=radical)
  
 <h3 align='center'>Свяжитесь со мной 📞</h3>
 
