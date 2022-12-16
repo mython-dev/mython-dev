@@ -7,6 +7,7 @@
 </p>
 <p align='center'>
 <a  href="https://oxsoos.uz/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EC027&background=FFCAEA00&center=true&vCenter=true&width=435&lines=Im+a+junior+backend+developer;Im+a+junior+cybersecurity+specialist;Im+a+system+administrator+Linux" alt="Typing SVG" /></a>
+ <a href="https://github.com/mython-dev"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=mython-dev&color=blueviolet&style=flat-square"></a>
 </p>
 
 <h2 align='center'>Обо мне👨‍💻:</h2> 
@@ -134,7 +135,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mython-dev&layout=compact&theme=radical)
 
-<a href="https://github.com/mython-dev"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=mython-dev&color=blueviolet&style=flat-square"></a>
+
 
  
 <h3 align='center'>Свяжитесь со мной 📞</h3>
