@@ -11,6 +11,13 @@
 <p align="center">
 <a href="https://github.com/mython-dev"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=mython-dev&color=blueviolet&style=flat-square"></a></p>
 
+                 _   _               _            
+ _ __ ___  _   _| |_| |__         __| | _____   __
+| '_ ` _ \| | | | __| '_ \ _____ / _` |/ _ \ \ / /
+| | | | | | |_| | |_| | | |_____| (_| |  __/\ V / 
+|_| |_| |_|\__, |\__|_| |_|      \__,_|\___| \_/  
+           |___/                                 
+
 <h2 align='center'>Обо мне👨‍💻:</h2> 
 
 <p align="center">
