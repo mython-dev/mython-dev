@@ -36,7 +36,7 @@
 
 - In my free time I write scripts 📝 and telegram bots 🤖, and play ctf --> https://hackthebox.com. 
 
-- What languages do I know: English(elementary), Russian, Uzbek.
+- languages: English(elementary), Russian, Uzbek.
 
 - What operating systems are usually used: Mac Os, Kali Linux, Ubuntu, Windows
  
