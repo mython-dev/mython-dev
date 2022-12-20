@@ -28,7 +28,7 @@
 
 <p align="center">
 
-- I am studying Python, Bash, Django, Linux, Pen-Testing, Cyber-Security , Web-Hacking, Virus science.
+- I am studying Python, Bash, Django, Linux, Pen-Testing, Virus science.
 
 - What I plan to study in the future С#, Ruby, Reverse Engineering:).
 
