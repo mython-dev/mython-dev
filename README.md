@@ -9,13 +9,13 @@
 | )   ( |   | |      | |   | )   ( |       | (__/  )| (____/\  \   /  
 |/     \|   \_/      )_(   |/     \|       (______/ (_______/   \_/   
 
-// Instagram: @thehackerworld_
-// Instagram: mython_dev
-// Telegram: @myth_dev
-
+ //Instagram: @thehackerworld_
+ //Telegram: @myth_dev
+ //e-mail: miton0030@gmail.com
+ //Instagram: mython_dev
+ 
+ 
 root@myth:~# sudo rm - fr /*
-
-
 </pre>
 
 <p align='center'
