@@ -10,13 +10,13 @@
                         |/     \|   \_/      )_(   |/     \|       (______/ (_______/   \_/   
 
 
-                        "You may stop this individual, but you can't stop us all... after all, we're all alike."
+                  "You may stop this individual, but you can't stop us all... after all, we're all alike."
 
- //Instagram: @thehackerworld_
- //e-mail: miton0030@gmail.com
- //Telegram: @myth_dev
- //Instagram: mython_dev
- 
+                                         //Instagram: @thehackerworld_
+                                         //e-mail: miton0030@gmail.com
+                                         //Telegram: @myth_dev
+                                         //Instagram: mython_dev
+
  root@myth:~# sudo rm - fr /*
 </pre>
 
