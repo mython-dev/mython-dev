@@ -12,7 +12,6 @@
 
 "You may stop this individual, but you can't stop us all... after all, we're all alike."
 
-<pre>
  //Instagram: @thehackerworld_
  //e-mail: miton0030@gmail.com
  
