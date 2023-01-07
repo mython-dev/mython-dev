@@ -1,4 +1,4 @@
-<pre align="center" style="color: rgb(68, 170, 68);" bgcolor="#000000">
+<pre align="center">
         
  _______          _________                 ______   _______          
 (       )|\     /|\__   __/|\     /|       (  __  \ (  ____ \|\     /|
@@ -12,7 +12,9 @@
 
 "You may stop this individual, but you can't stop us all... after all, we're all alike."
 
+</pre>
 
+<pre>
  //Instagram: @thehackerworld_
  //e-mail: miton0030@gmail.com
  
