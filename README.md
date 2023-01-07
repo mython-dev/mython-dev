@@ -38,7 +38,7 @@
 
 - languages: English(elementary), Russian, Uzbek.
 
-- What operating systems are usually used: Mac Os, Kali Linux, Ubuntu, Windows
+- What operating systems are usually used: Mac Os, Kali Linux, Debian.
  
 ***
 
