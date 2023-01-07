@@ -10,8 +10,8 @@
 |/     \|   \_/      )_(   |/     \|       (______/ (_______/   \_/   
 
  //Instagram: @thehackerworld_
- //Telegram: @myth_dev
  //e-mail: miton0030@gmail.com
+ //Telegram: @myth_dev
  //Instagram: mython_dev
  
  
