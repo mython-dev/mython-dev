@@ -122,12 +122,12 @@ root@myth:~# sudo rm - fr /*
       
 | Name                  | Description                                            |
 | ----------------------|------------------------------------------------------- |
-| _[PyNmap](https://github.com/mython-dev/PyNmap)_ | - Sep 27, 2022 :: Written in python can scan [TCP,UDP,OS, NSE.VULNERS]
-|_[PyHackTool](https://github.com/mython-dev/pyhacktool)_ | - Oct 13, 2022 :: PyHackTool — this is an installer of tools for pentest on Linux (Debian,Ubuntu). This tool makes it easier for you. You don't need to search for a tool in github, etc. and clone. You will only have to choose a tool.|
-|_[Mythical-Payload](https://github.com/mython-dev/mythical-payload)_ | - Oct 02, 2022 :: Payload Creator for Operating Systems and Programming Language.|
-|_[Whois Bot](https://github.com/mython-dev/Whois-Bot)_ | - Dec 09, 2022 :: Whois-Bot displays the provider and the location of the IP address or domain |
-|_[SSH brute-force](https://github.com/mython-dev/ssh-brute-force)_ | - Dec 16, 2022 :: SSH brute-forcing tool written in python |
-|_[Text to Audio Converter](https://github.com/mython-dev/text-to-audio-converter)_ | - Dec 2, 2022 :: Convert Audio to Text using Telebot gTTS.  |
+| _[PyNmap](https://github.com/mython-dev/PyNmap)_ | · Sep 27, 2022 :: Written in python can scan [TCP,UDP,OS, NSE.VULNERS]
+|_[PyHackTool](https://github.com/mython-dev/pyhacktool)_ | · Oct 13, 2022 :: PyHackTool — this is an installer of tools for pentest on Linux (Debian,Ubuntu). This tool makes it easier for you. You don't need to search for a tool in github, etc. and clone. You will only have to choose a tool.|
+|_[Mythical-Payload](https://github.com/mython-dev/mythical-payload)_ | · Oct 02, 2022 :: Payload Creator for Operating Systems and Programming Language.|
+|_[Whois Bot](https://github.com/mython-dev/Whois-Bot)_ | · Dec 09, 2022 :: Whois-Bot displays the provider and the location of the IP address or domain |
+|_[SSH brute-force](https://github.com/mython-dev/ssh-brute-force)_ | · Dec 16, 2022 :: SSH brute-forcing tool written in python |
+|_[Text to Audio Converter](https://github.com/mython-dev/text-to-audio-converter)_ | · Dec 2, 2022 :: Convert Audio to Text using Telebot gTTS.  |
 
 <h2 align="center"><u>Where I studied 👨‍🎓</u></h2>
 
