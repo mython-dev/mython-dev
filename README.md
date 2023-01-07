@@ -29,17 +29,17 @@ root@myth:~# sudo rm - fr /*
 
 <p align="center">
 
-\\ I am studying Python, Bash, Django, Linux, Pen-Testing, Virus science.
+- \\ I am studying Python, Bash, Django, Linux, Pen-Testing, Virus science.
 
-\\ What I plan to study in the future С#, Ruby, Reverse Engineering:).
+- \\ What I plan to study in the future С#, Ruby, Reverse Engineering:).
 
-\\ My hobby play games --> "especially cs go" 🎮.
+- \\ My hobby play games --> "especially cs go" 🎮.
 
-\\ In my free time I write scripts 📝 and telegram bots 🤖, and play ctf --> https://hackthebox.com. 
+- \\ In my free time I write scripts 📝 and telegram bots 🤖, and play ctf --> https://hackthebox.com. 
 
-\\ languages: English(elementary), Russian, Uzbek.
+- \\ languages: English(elementary), Russian, Uzbek.
 
-\\ What operating systems are usually used: Mac Os, Kali Linux, Debian.
+- \\ What operating systems are usually used: Mac Os, Kali Linux, Debian.
  
 ***
 
