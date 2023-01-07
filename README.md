@@ -13,8 +13,9 @@
 // Instagram: mython_dev
 // Telegram: @myth_dev
 
-
 root@myth:~# sudo rm - fr /*
+
+
 </pre>
 
 <p align='center'
