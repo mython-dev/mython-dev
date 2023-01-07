@@ -11,9 +11,9 @@
                                                                       
 
            
-"I know, a hack and I can hack you. So ... you have no chance:/"
-
-"You may stop this individual, but you can't stop us all... after all, we're all alike."
+// Instagram: mython_dev
+// Telegram: @myth_dev
+// Instagram: @thehackerworld_
    
 </pre>
 
