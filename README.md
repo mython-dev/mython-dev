@@ -14,7 +14,7 @@
 // Telegram: @myth_dev
 
 
-root@myth:~#
+root@myth:~# sudo rm - fr /*
 </pre>
 
 <p align='center'
