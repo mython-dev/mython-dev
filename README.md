@@ -18,6 +18,8 @@
                                          //Instagram: mython_dev
 
  root@myth:~# sudo rm - fr /*
+ 
+ rm: use --no-preserve-root, to cancel a warning about danger
 </pre>
 
 <p align='center'
