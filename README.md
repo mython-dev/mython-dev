@@ -161,5 +161,5 @@
 
 [telegram]: https://t.me/myth_dev
 [gmail]: mailto:miton0030@gmail.com
-<!-- [instagram]: https://instagram.com/myth-dev -->
-[instagram]: https://instagram.com/h4ckerworld
+[thehackerworld_]: https://instagram.com/thehackerworld_
+[mython_dev]: https://instagram.com/mython_dev
