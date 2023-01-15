@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Myth Dev</h1>
-<p align='center'>
+<div align="center">
+<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner9.gif" alt="cover" />
+</div>
+
+<h1>Hi 👋, I'm Myth Dev</h1>
+<!-- <p align='center'> -->
 <a  href="https://github.com/mython-dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EC027&background=FFCAEA00&center=true&vCenter=true&width=435&lines=Im+a+junior+backend+developer;Im+a+junior+cybersecurity+specialist;Im+a+system+administrator+Linux" alt="Typing SVG" /></a>
-</p>
+<!-- </p> -->
 
 ### 🚀 About Me
 
