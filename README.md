@@ -56,6 +56,12 @@
    - [Python в веб с нуля до создания приложений. Python + Django](www.udemy.com/course/python-pythondjango/)
 
 
+<h3>📊 My github profile statistics</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mython-dev&show_icons=true&locale=en&layout=compact" alt="mython-dev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mython-dev&show_icons=true&locale=en" alt="mython-dev" /></p>
+
 <h3 align="left">Connect with me:</h3>
 
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>][telegram]
@@ -67,8 +73,4 @@
 [gmail]: mailto:miton0030@gmail.com
 [thehackerworld_]: https://instagram.com/thehackerworld_
 [mython_dev]: https://instagram.com/mython_dev
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mython-dev&show_icons=true&locale=en&layout=compact" alt="mython-dev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mython-dev&show_icons=true&locale=en" alt="mython-dev" /></p>
 
