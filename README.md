@@ -41,7 +41,6 @@
 |_[Mythical-Payload](https://github.com/mython-dev/mythical-payload)_ | · Oct 02, 2022 :: Payload Creator for Operating Systems and Programming Language.|
 |_[Whois Bot](https://github.com/mython-dev/Whois-Bot)_ | · Dec 09, 2022 :: Whois-Bot displays the provider and the location of the IP address or domain |
 |_[SSH brute-force](https://github.com/mython-dev/ssh-brute-force)_ | · Dec 16, 2022 :: SSH brute-forcing tool written in python |
-|_[Text to Audio Converter](https://github.com/mython-dev/text-to-audio-converter)_ | · Dec 2, 2022 :: Convert Audio to Text using Telebot gTTS.  |
 
 <h3>Where I studied:</h3>
 
@@ -55,8 +54,6 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<!--<p align="left">
-<a href="https://instagram.com/https://instagram.com/thehackerworld_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/thehackerworld_" height="30" width="40" /></a> -->
 
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>][telegram]
 [<img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
