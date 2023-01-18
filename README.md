@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Python, Bash, Linux, Pen-Testing.
 
-- 👨‍💻 All of my projects are available at [Projects :)](https://github.com/mython-dev?tab=repositories)
+- 👨‍💻 All of my projects are available at [here :)](https://github.com/mython-dev?tab=repositories)
 
 - 📝 I regularly conduct a blog about hacking [The Hacker World!](https://instagram.com/thehackerworld_)
 
