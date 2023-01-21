@@ -38,7 +38,6 @@
       
 | Name                  | Description                                            |
 | ----------------------|------------------------------------------------------- |
-| _[Django-Password-Generator](https://github.com/mython-dev/Django-Password-Generator)_ | ·  Jan 21, 2023 :: Password Generator!
 | _[Parser-news-Bot](https://github.com/mython-dev/Parser-news)_ | ·  Jan 15, 2023 :: This bot can parse the news from the site kun.uz 😃
 | _[PyNmap](https://github.com/mython-dev/PyNmap)_ | · Sep 27, 2022 :: Written in python can scan [TCP,UDP,OS, NSE.VULNERS]
 |_[PyHackTool](https://github.com/mython-dev/pyhacktool)_ | · Oct 13, 2022 :: PyHackTool — this is an installer of tools for pentest on Linux (Debian,Ubuntu). This tool makes it easier for you. You don't need to search for a tool in github, etc. and clone. You will only have to choose a tool.|
