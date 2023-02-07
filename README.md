@@ -58,10 +58,10 @@
 
 <h3>📊 My github profile statistics</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mython-dev&show_icons=true&locale=en&layout=compact" alt="mython-dev" /></p>
+<p aling='center'><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mython-dev&show_icons=true&locale=en&layout=compact" alt="mython-dev" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mython-dev&show_icons=true&locale=en" alt="mython-dev" /></p>
+<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mython-dev&show_icons=true&locale=en" alt="mython-dev" /></p>
 
 <h3 align="left">Connect with me:</h3>
 
