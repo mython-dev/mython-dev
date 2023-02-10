@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on [Parser News Bot](https://github.com/mython-dev/Parser-news)
+<!-- - 🔭 I’m currently working on [Parser News Bot](https://github.com/mython-dev/Parser-news) -->
 
 - 🌱 I’m currently learning Python, Bash, Linux, Pen-Testing.
 
