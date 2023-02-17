@@ -66,8 +66,8 @@
  
 <h3 align="center"><u>My Github Stats</u></h3>
 <p align="center">
-<a href="https://github.com/mython-dev/github-stats-card" alt="github-stats-card"><img src="https://mython-dev-stats-card.onrender.com/user?user=mython-dev&layout=compact&theme=monokai"/></a>
-<a href="https://github.com/mython-dev/github-stats-card" alt="github-stats-card"><img src="https://mython-dev-stats-card.onrender.com/lang?user=mython-dev&layout=compact&type=donut&theme=gruvbox&minimum=0.1"/></a>
+<!-- <a href="https://github.com/mython-dev/github-stats-card" alt="github-stats-card"><img src="https://mython-dev-stats-card.onrender.com/user?user=mython-dev&layout=compact&theme=monokai"/></a>
+<a href="https://github.com/mython-dev/github-stats-card" alt="github-stats-card"><img src="https://mython-dev-stats-card.onrender.com/lang?user=mython-dev&layout=compact&type=donut&theme=gruvbox&minimum=0.1"/></a> -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mython-dev&theme=dracula">
 <img src="https://metrics.lecoq.io/mython-dev?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
 <img src="https://github-profile-trophy.vercel.app/?username=mython-dev&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
