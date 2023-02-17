@@ -58,11 +58,21 @@
 
 <h3>📊 My github profile statistics</h3>
 
-<p aling='center'><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mython-dev&show_icons=true&locale=en&layout=compact" alt="mython-dev" /></p>
+<!-- <p aling='center'><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mython-dev&show_icons=true&locale=en&layout=compact" alt="mython-dev" /></p>
 
 
 <p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mython-dev&show_icons=true&locale=en" alt="mython-dev" /></p>
-
+ -->
+ 
+<h3 align="center"><u>My Github Stats</u></h3>
+<p align="center">
+<a href="https://github.com/mython-dev/github-stats-card" alt="github-stats-card"><img src="https://mython-dev-stats-card.onrender.com/user?user=mython-dev&layout=compact&theme=monokai"/></a>
+<a href="https://github.com/mython-dev/github-stats-card" alt="github-stats-card"><img src="https://mython-dev-stats-card.onrender.com/lang?user=mython-dev&layout=compact&type=donut&theme=gruvbox&minimum=0.1"/></a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mython-dev&theme=dracula">
+<img src="https://metrics.lecoq.io/mython-dev?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
+<img src="https://github-profile-trophy.vercel.app/?username=mython-dev&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+</p>
+ 
 <h3 align="left">Connect with me:</h3>
 
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>][telegram]
