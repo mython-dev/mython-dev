@@ -67,13 +67,14 @@
 <h3 align="center"><u>My Github Stats</u></h3>
 <p align="center">
       
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mython-dev)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- <a href="https://github.com/mython-dev/github-stats-card" alt="github-stats-card"><img src="https://mython-dev-stats-card.onrender.com/user?user=mython-dev&layout=compact&theme=monokai"/></a>
 <a href="https://github.com/mython-dev/github-stats-card" alt="github-stats-card"><img src="https://mython-dev-stats-card.onrender.com/lang?user=mython-dev&layout=compact&type=donut&theme=gruvbox&minimum=0.1"/></a> -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mython-dev&theme=dracula">
 <img src="https://metrics.lecoq.io/mython-dev?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
 <img src="https://github-profile-trophy.vercel.app/?username=mython-dev&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
 </p>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/mythond-dev/mython-dev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/mython-dev/mython-dev/output/github-contribution-grid-snake.svg#gh-light-mode-only)
  
 <h3 align="left">Connect with me:</h3>
 
