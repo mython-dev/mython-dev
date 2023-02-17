@@ -74,7 +74,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=mython-dev&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/mythond-dev/mython-dev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/mython-dev/mython-dev/output/github-contribution-grid-snake.svg#gh-light-mode-only)
  
 <h3 align="left">Connect with me:</h3>
 
