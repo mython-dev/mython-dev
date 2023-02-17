@@ -19,7 +19,7 @@
 
 - 🕔 In my free time I write scripts and telegram bots 
 
-- 👨‍💻 What I plan to study in the future C#, Reverse Engineering.
+- 👨‍💻 What I plan to study in the future Go, Ruby.
 
 - 📫 How to reach me **miton0030@gmail.com**
 
